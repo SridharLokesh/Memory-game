@@ -1,0 +1,24 @@
+# Memory Game
+
+## Description
+
+This is a simple Memory Game where players flip cards to find matching pairs. The game is built using HTML, CSS, and JavaScript (DOM manipulation).
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript (DOM manipulation)
+
+## How to Play
+
+1. Click on any card to flip it and reveal the front face.
+2. Flip another card to try and find a matching pair.
+3. If the cards match, they will remain face-up. If they don't match, they will flip back after a short delay.
+4. Continue flipping cards to find all matching pairs.
+5. Once all pairs are found, the game is won.
+
+## Features
+
+- Responsive design for both desktop and mobile devices.
+
+Enjoy the game!
